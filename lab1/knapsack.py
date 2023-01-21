@@ -15,9 +15,9 @@ __author__ = "Gustav Elmqist"
 import sys
 
 
-def get_pair():
+def get_pair() -> tuple[int,...]:
 	"""
-	Read a line of input and split it into a tuple of two integers.
+	Read a line of input and split it into a integer tuple
 	"""
 	return tuple(int(x) for x in sys.stdin.readline().split())
 
@@ -53,10 +53,10 @@ def knapsack(capacity, n, values, weights):
 	result = []
 	while n > 0:
 		if table[n][capacity] > table[n-1][capacity]:
-			result = [n-1] + result
+			result += [n-1]
 			capacity -= weights[n-1]
 		n -= 1
-	return result
+	return result[::-1]
 
 
 if __name__ == "__main__":
@@ -64,17 +64,14 @@ if __name__ == "__main__":
 	# This while loop will be executed once for each test case until there
 	# is no more user input.
 	while (pair := get_pair()):
-		
-		# Split up the input pair. Capacity is how much weight the knapsack
-		# can carry and n is how many items there are to choose from.
+
+		# Split up the input pair.
 		capacity, n = pair
 
 		# Get n values and weights from the test case.
 		values, weights = zip(*[get_pair() for _ in range(n)])
 
-		# Calculate the result
 		result = knapsack(capacity, n, values, weights)
 
-		# Print the result.
 		print(len(result))
 		print(' '.join(str(x) for x in result))
