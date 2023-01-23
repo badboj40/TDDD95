@@ -1,5 +1,5 @@
 import sys
-r,f=range,lambda:list(map(int,sys.stdin.readline().split()))
+r=range;f=lambda:[*map(int,sys.stdin.readline().split())]
 def k(p):
 	C,n=p;y="";s=0;v,c=zip(*[f()for _ in r(n)]);t=[[0]*(C+1)for _ in r(n+1)]
 	for i in r(n):

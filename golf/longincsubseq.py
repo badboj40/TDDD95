@@ -1,7 +1,7 @@
 import sys,bisect
 z=sys.stdin.readline
 while z():
-	s=list(map(int,z().split()));n=len(s);T=[0];R=[-1]*n
+	s=[*map(int,z().split())];n=len(s);T=[0];R=[-1]*n
 	for i in range(n):
 		j=bisect.bisect_left(T,s[i])
 		if j>0:R[i]=T[j-1]
