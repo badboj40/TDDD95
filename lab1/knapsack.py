@@ -1,4 +1,3 @@
-
 __author__ = "Gustav Elmqist"
 
 """
@@ -15,7 +14,7 @@ __author__ = "Gustav Elmqist"
 import sys
 
 
-def get_pair() -> tuple[int,...]:
+def get_pair():
 	"""
 	Read a line of input and split it into a integer tuple
 	"""
