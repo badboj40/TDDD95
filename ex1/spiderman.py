@@ -1,8 +1,6 @@
 
 __author__ = "Gustav Elmqvist"
 
-# Kattis problem: https://liu.kattis.com/problems/spiderman
-
 def spiderman(distances):
 	"""
 	Return the optimal climbing path for spiderman, for example UUDDUDDDUDUDD.

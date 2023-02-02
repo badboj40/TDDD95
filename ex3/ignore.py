@@ -17,7 +17,7 @@ for K_i in map(int,sys.stdin):
     # Go through every digit in the K_i 7-base number and add the 
     # corresponding upside-down digit to the result
     while K_i:
-        result+="0125986"[K_i%7]
-        K_i//=7
+        result += "0125986"[K_i%7]
+        K_i //= 7
 
     print(result)

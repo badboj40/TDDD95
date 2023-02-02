@@ -16,8 +16,6 @@ __author__ = "Gustav Elmqvist"
 
     When done, loop through the result list R backwards to find which numbers
     are included in the final solution and return the result.
-
-    Kattis problem: https://liu.kattis.com/problems/longincsubseq
 """
 
 

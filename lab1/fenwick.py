@@ -7,7 +7,6 @@ __author__ = "Gustav Elmqvist"
 	elements and queries about the prefix sum in a part of the array. Both
 	of these operations are done in logarithmic time.
 	
-	Kattis problem: https://liu.kattis.com/problems/fenwick
 """
 
 class FenwickTree:

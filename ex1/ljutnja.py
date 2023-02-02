@@ -1,7 +1,8 @@
-# https://liu.kattis.com/problems/ljutnja
-
 import sys
 import heapq
+
+__author__ = "Gustav Elmqvist"
+
 
 indata = [row for row in sys.stdin]
 

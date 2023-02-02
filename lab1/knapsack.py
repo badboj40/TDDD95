@@ -1,3 +1,5 @@
+import sys
+
 __author__ = "Gustav Elmqist"
 
 """
@@ -8,10 +10,8 @@ __author__ = "Gustav Elmqist"
 	sys.stdin.readline() instead of input(), because it was a few percent
 	faster.
 
-	link to the problem: https://liu.kattis.com/problems/knapsack
 """
 
-import sys
 
 
 def get_pair():

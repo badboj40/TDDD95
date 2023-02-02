@@ -1,6 +1,7 @@
-# https://liu.kattis.com/problems/help2
-
 import sys
+
+__author__ = "Gustav Elmqvist"
+
 
 indata = [row for row in sys.stdin][1:]
 
@@ -28,6 +29,7 @@ def solve(first, second):
 			return solve(first, second)
 		
 	return ' '.join(w if is_word(w) else 'x' for w in first)
+
 
 for i in range(len(indata)//2):
 	first = indata[2*i].split()

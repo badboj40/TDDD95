@@ -9,7 +9,6 @@ __author__ = "Gustav Elmqvist"
 	the parent relationship graph with each call the time complexity is
 	logarithmic.
 
-	Kattis problem: https://liu.kattis.com/problems/unionfind
 """
 
 class DSU:
