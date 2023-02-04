@@ -30,6 +30,12 @@ The exercises completed during the course.
 | [Ignore the Garbage](https://open.kattis.com/problems/ignore)        | [ignore.py](ex3/ignore.py)               |
 | [Dead Fraction](https://open.kattis.com/problems/deadfraction)       | [deadfraction.py](ex3/deadfraction.py)   |
 
+### Exercise 4 - Greedy Problems and Dynamic Programming II
+
+| Problem                                                              | Solution                                 |
+| -------------------------------------------------------------------- | ---------------------------------------- |
+|[The Uxuhul Voting System](https://open.kattis.com/problems/uxuhulvoting)|[uxuhulvoting.py](ex4/uxuhulvoting.py)
+
 ## Laborations
 
 The laboration problems done during the course.
