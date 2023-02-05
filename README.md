@@ -48,3 +48,9 @@ The laboration problems done during the course.
 | [Longest Increasing Subsequence](https://open.kattis.com/problems/longincsubseq) | [longincsubseq.py](lab1/longincsubseq.py) |
 | [Union-Find](https://open.kattis.com/problems/unionfind)                         | [unionfind.py](lab1/unionfind.py)         |
 | [Fenwick Tree](https://open.kattis.com/problems/fenwick)                         | [fenwick.py](lab1/fenwick.py)             |
+
+### Lab 2
+
+| Problem                                                                          | Solution                                  |
+| -------------------------------------------------------------------------------- | ----------------------------------------- |
+| [All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath)|[allpairspath.py](lab2/allpairspath.py)|
