@@ -32,9 +32,9 @@ The exercises completed during the course.
 
 ### Exercise 4 - Greedy Problems and Dynamic Programming II
 
-| Problem                                                              | Solution                                 |
-| -------------------------------------------------------------------- | ---------------------------------------- |
-|[The Uxuhul Voting System](https://open.kattis.com/problems/uxuhulvoting)|[uxuhulvoting.py](ex4/uxuhulvoting.py)
+| Problem                                                                   | Solution                               |
+| ------------------------------------------------------------------------- | -------------------------------------- |
+| [The Uxuhul Voting System](https://open.kattis.com/problems/uxuhulvoting) | [uxuhulvoting.py](ex4/uxuhulvoting.py) |
 
 ## Laborations
 
@@ -51,6 +51,7 @@ The laboration problems done during the course.
 
 ### Lab 2
 
-| Problem                                                                          | Solution                                  |
-| -------------------------------------------------------------------------------- | ----------------------------------------- |
-| [All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath)|[allpairspath.py](lab2/allpairspath.py)|
+| Problem                                                                  | Solution                                |
+| ------------------------------------------------------------------------ | --------------------------------------- |
+| [All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath) | [allpairspath.py](lab2/allpairspath.py) |
+| [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|[shortestpath1.py](lab2/shortestpath1.py) |
