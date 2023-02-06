@@ -55,3 +55,4 @@ The laboration problems done during the course.
 | ------------------------------------------------------------------------ | --------------------------------------- |
 | [All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath) | [allpairspath.py](lab2/allpairspath.py) |
 | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|[shortestpath1.py](lab2/shortestpath1.py) |
+|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|[shortestpath2.py](lab2/shortestpath2.py) |
