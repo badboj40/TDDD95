@@ -51,9 +51,10 @@ The laboration problems done during the course.
 
 ### Lab 2
 
-| Problem                                                                  | Solution                                |
-| ------------------------------------------------------------------------ | --------------------------------------- |
-| [All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath) | [allpairspath.py](lab2/allpairspath.py) |
-| [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)|[shortestpath1.py](lab2/shortestpath1.py) |
-|[Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)|[shortestpath2.py](lab2/shortestpath2.py) |
-|[Single source shortest path, negative weights](https://open.kattis.com/problems/shortestpath3)|[shortestpath3.py](lab2/shortestpath3.py)|
+| Problem                                                                                             | Solution                                  |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [All Pairs Shortest Path](https://open.kattis.com/problems/allpairspath)                            | [allpairspath.py](lab2/allpairspath.py)   |
+| [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1) | [shortestpath1.py](lab2/shortestpath1.py) |
+| [Single source shortest path, time table](https://open.kattis.com/problems/shortestpath2)           | [shortestpath2.py](lab2/shortestpath2.py) |
+| [Single source shortest path, negative weights](https://open.kattis.com/problems/shortestpath3)     | [shortestpath3.py](lab2/shortestpath3.py) |
+| [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree)                               | [minspantree.py](lab2/minspantree.py)     |
