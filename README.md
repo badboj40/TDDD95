@@ -36,6 +36,12 @@ The exercises completed during the course.
 | ------------------------------------------------------------------------- | -------------------------------------- |
 | [The Uxuhul Voting System](https://open.kattis.com/problems/uxuhulvoting) | [uxuhulvoting.py](ex4/uxuhulvoting.py) |
 
+### Exercise 5 - Graphs I
+
+| Problem                                                                   | Solution                               |
+| ------------------------------------------------------------------------- | -------------------------------------- |
+|[Getting Gold](https://open.kattis.com/problems/gold)|[gold.py](ex5/gold.py)|
+
 ## Laborations
 
 The laboration problems done during the course.
