@@ -42,6 +42,11 @@ The exercises completed during the course.
 | ------------------------------------------------------------------------- | -------------------------------------- |
 |[Getting Gold](https://open.kattis.com/problems/gold)|[gold.py](ex5/gold.py)|
 
+### Exercise 6 - Graphs II
+
+| Problem                                                                   | Solution                               |
+|[George](https://open.kattis.com/problems/george)|[george.py](ex6/george.py)|
+
 ## Laborations
 
 The laboration problems done during the course.
