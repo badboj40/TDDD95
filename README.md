@@ -38,14 +38,15 @@ The exercises completed during the course.
 
 ### Exercise 5 - Graphs I
 
-| Problem                                                                   | Solution                               |
-| ------------------------------------------------------------------------- | -------------------------------------- |
-|[Getting Gold](https://open.kattis.com/problems/gold)|[gold.py](ex5/gold.py)|
+| Problem                                               | Solution               |
+| ----------------------------------------------------- | ---------------------- |
+| [Getting Gold](https://open.kattis.com/problems/gold) | [gold.py](ex5/gold.py) |
 
 ### Exercise 6 - Graphs II
 
-| Problem                                                                   | Solution                               |
-|[George](https://open.kattis.com/problems/george)|[george.py](ex6/george.py)|
+| Problem                                           | Solution                   |
+| ------------------------------------------------- | -------------------------- |
+| [George](https://open.kattis.com/problems/george) | [george.py](ex6/george.py) |
 
 ## Laborations
 
