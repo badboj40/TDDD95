@@ -47,6 +47,7 @@ The exercises completed during the course.
 | Problem                                           | Solution                   |
 | ------------------------------------------------- | -------------------------- |
 | [George](https://open.kattis.com/problems/george) | [george.py](ex6/george.py) |
+| [Island Hopping](https://open.kattis.com/problems/islandhopping) | [islandhopping.py](ex6/islandhopping.py) |
 
 ## Laborations
 
