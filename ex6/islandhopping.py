@@ -1,3 +1,4 @@
+import math
 
 __author__ = "Gustav Elmqvist"
 
@@ -30,17 +31,11 @@ def prim(graph, n):
     return total_weight
 
 
-def dist(i, j, points):
-    dx = points[i][0] - points[j][0]
-    dy = points[i][1] - points[j][1]
-    return (dx**2 + dy**2) ** 0.5
-
-
 for _ in range(int(input())):
     n = int(input())
     islands = [tuple(map(float, input().split())) for _ in range(n)]
 
-    graph = [[dist(i,j,islands) for i in range(n)] for j in range(n)]
+    graph = [[math.dist(islands[i],islands[j]) for i in range(n)] for j in range(n)]
 
     total_weight = prim(graph, n)
 
