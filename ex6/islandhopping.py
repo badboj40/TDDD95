@@ -33,9 +33,9 @@ def prim(graph, n):
 
 for _ in range(int(input())):
     n = int(input())
-    islands = [tuple(map(float, input().split())) for _ in range(n)]
+    points = [tuple(map(float, input().split())) for _ in range(n)]
 
-    graph = [[math.dist(islands[i],islands[j]) for i in range(n)] for j in range(n)]
+    graph = [[math.dist(p, q) for p in points] for q in points]
 
     total_weight = prim(graph, n)
 
