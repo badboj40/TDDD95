@@ -41,7 +41,7 @@ The exercises completed during the course.
 | Problem                                               | Solution               |
 | ----------------------------------------------------- | ---------------------- |
 | [Getting Gold](https://open.kattis.com/problems/gold) | [gold.py](ex5/gold.py) |
-| [Borg](https://open.kattis.com/problems/borg) | [borg.py](ex5/borg.py) |
+| [Killing Aliens in a Borg Maze](https://open.kattis.com/problems/borg) | [borg.py](ex5/borg.py) |
 
 ### Exercise 6 - Graphs II
 
@@ -49,6 +49,12 @@ The exercises completed during the course.
 | ------------------------------------------------- | -------------------------- |
 | [George](https://open.kattis.com/problems/george) | [george.py](ex6/george.py) |
 | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [islandhopping.py](ex6/islandhopping.py) |
+
+### Exercise 7 - Graphs III
+
+| Problem                                           | Solution                   |
+| ------------------------------------------------- | -------------------------- |
+| [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces.py](ex6/hidingplaces.py) |
 
 ## Laborations
 
