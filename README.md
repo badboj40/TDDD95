@@ -54,7 +54,8 @@ The exercises completed during the course.
 
 | Problem                                           | Solution                   |
 | ------------------------------------------------- | -------------------------- |
-| [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces.py](ex6/hidingplaces.py) |
+| [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces.py](ex7/hidingplaces.py) |
+| [Get Shorty](https://open.kattis.com/problems/getshorty) | [getshorty.py](ex7/getshorty.py) |
 
 ## Laborations
 
