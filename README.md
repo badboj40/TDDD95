@@ -41,6 +41,7 @@ The exercises completed during the course.
 | Problem                                               | Solution               |
 | ----------------------------------------------------- | ---------------------- |
 | [Getting Gold](https://open.kattis.com/problems/gold) | [gold.py](ex5/gold.py) |
+| [Borg](https://open.kattis.com/problems/borg) | [borg.py](ex5/borg.py) |
 
 ### Exercise 6 - Graphs II
 
