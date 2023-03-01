@@ -57,6 +57,12 @@ The exercises completed during the course.
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces.py](ex7/hidingplaces.py) |
 | [Get Shorty](https://open.kattis.com/problems/getshorty) | [getshorty.py](ex7/getshorty.py) |
 
+### Exercise 8 - Strings I
+
+| Problem                                           | Solution                   |
+| ------------------------------------------------- | -------------------------- |
+| [Evil Straw Warts Live](https://open.kattis.com/problems/evilstraw) | [evilstraw.py](ex8/evilstraw.py) |
+
 ## Laborations
 
 The laboration problems done during the course.
