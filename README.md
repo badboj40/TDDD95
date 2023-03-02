@@ -69,6 +69,12 @@ The exercises completed during the course.
 | ------------------------------------------------- | -------------------------- |
 | [Messages from Outer Space](https://open.kattis.com/problems/messages) | [messages.py](ex9/messages.py) |
 
+### Exercise 10 - Number Theory
+
+| Problem                                           | Solution                   |
+| ------------------------------------------------- | -------------------------- |
+| [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime) | [happyprime.py](ex10/happyprime.py) |
+
 ## Laborations
 
 The laboration problems done during the course.
