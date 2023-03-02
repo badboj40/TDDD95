@@ -63,6 +63,12 @@ The exercises completed during the course.
 | ------------------------------------------------- | -------------------------- |
 | [Evil Straw Warts Live](https://open.kattis.com/problems/evilstraw) | [evilstraw.py](ex8/evilstraw.py) |
 
+### Exercise 9 - Strings II
+
+| Problem                                           | Solution                   |
+| ------------------------------------------------- | -------------------------- |
+| [Messages from Outer Space](https://open.kattis.com/problems/messages) | [messages.py](ex9/messages.py) |
+
 ## Laborations
 
 The laboration problems done during the course.
