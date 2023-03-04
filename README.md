@@ -38,42 +38,48 @@ The exercises completed during the course.
 
 ### Exercise 5 - Graphs I
 
-| Problem                                               | Solution               |
-| ----------------------------------------------------- | ---------------------- |
-| [Getting Gold](https://open.kattis.com/problems/gold) | [gold.py](ex5/gold.py) |
+| Problem                                                                | Solution               |
+| ---------------------------------------------------------------------- | ---------------------- |
+| [Getting Gold](https://open.kattis.com/problems/gold)                  | [gold.py](ex5/gold.py) |
 | [Killing Aliens in a Borg Maze](https://open.kattis.com/problems/borg) | [borg.py](ex5/borg.py) |
 
 ### Exercise 6 - Graphs II
 
-| Problem                                           | Solution                   |
-| ------------------------------------------------- | -------------------------- |
-| [George](https://open.kattis.com/problems/george) | [george.py](ex6/george.py) |
+| Problem                                                          | Solution                                 |
+| ---------------------------------------------------------------- | ---------------------------------------- |
+| [George](https://open.kattis.com/problems/george)                | [george.py](ex6/george.py)               |
 | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [islandhopping.py](ex6/islandhopping.py) |
 
 ### Exercise 7 - Graphs III
 
-| Problem                                           | Solution                   |
-| ------------------------------------------------- | -------------------------- |
+| Problem                                                        | Solution                               |
+| -------------------------------------------------------------- | -------------------------------------- |
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces.py](ex7/hidingplaces.py) |
-| [Get Shorty](https://open.kattis.com/problems/getshorty) | [getshorty.py](ex7/getshorty.py) |
+| [Get Shorty](https://open.kattis.com/problems/getshorty)       | [getshorty.py](ex7/getshorty.py)       |
 
 ### Exercise 8 - Strings I
 
-| Problem                                           | Solution                   |
-| ------------------------------------------------- | -------------------------- |
+| Problem                                                             | Solution                         |
+| ------------------------------------------------------------------- | -------------------------------- |
 | [Evil Straw Warts Live](https://open.kattis.com/problems/evilstraw) | [evilstraw.py](ex8/evilstraw.py) |
 
 ### Exercise 9 - Strings II
 
-| Problem                                           | Solution                   |
-| ------------------------------------------------- | -------------------------- |
+| Problem                                                                | Solution                       |
+| ---------------------------------------------------------------------- | ------------------------------ |
 | [Messages from Outer Space](https://open.kattis.com/problems/messages) | [messages.py](ex9/messages.py) |
 
 ### Exercise 10 - Number Theory
 
-| Problem                                           | Solution                   |
-| ------------------------------------------------- | -------------------------- |
+| Problem                                                                | Solution                            |
+| ---------------------------------------------------------------------- | ----------------------------------- |
 | [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime) | [happyprime.py](ex10/happyprime.py) |
+
+### Exercise 11 - Search
+
+| Problem                                                                      | Solution                                    |
+| ---------------------------------------------------------------------------- | ------------------------------------------- |
+| [Yet Satisfiability Again!](https://open.kattis.com/problems/satisfiability) | [satisfiability.py](ex11/satisfiability.py) |
 
 ## Laborations
 
